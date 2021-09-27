@@ -1,6 +1,6 @@
 # Harvard [CS50AI](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
 ## Course Infos
-* Course: [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
+* Course: [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
 * Iteration: Year 2020
 * School: [Harvard](https://www.edx.org/school/harvardx)
 * This course is the second part of [Computer Science for Artificial Intelligence](https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence) program
